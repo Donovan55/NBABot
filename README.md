@@ -1,4 +1,4 @@
-[<h1 align="center"><img src="https://i.imgur.com/mCr1gL0.png" width="300"></h1>](https://nbabot.js.org/)
+<h1 align="center"><img src="https://i.imgur.com/mCr1gL0.png" width="300"></h1>
 
 <h4 align="center">A Discord bot for NBA scores, stats, news and simulated betting.</h4>
 
