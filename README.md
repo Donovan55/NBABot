@@ -21,8 +21,6 @@
 - [How to Make a Contribution](#how-to-make-a-contribution)
 - [How to Support Us](#how-to-support-us)
 - [License](#license)
-
-  
   
 # The Story Thus Far
 Hi, we're [Eliot](https://www.github.com/EliotChignell) and [Justin](https://www.github.com/freejstnalxndr), and we are the creators of NBABot. We met around 2018 when the project was in its very early stages. We are fans of the Suns and Knicks respectively, Eliot being from New Zealand, and Justin being from New York.
@@ -84,10 +82,8 @@ Below are a few of the available features. Use /help on Discord to view more.
   - /help
 <img src="https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png" width="500">
 
-  
  - /scores
 <img src="https://user-images.githubusercontent.com/98583013/218332251-327ce266-9a23-4f5d-8f2d-04d969bd4241.png" width="500">
-
   
  - /bet 
 <img src="https://user-images.githubusercontent.com/98583013/218332655-f3566e58-119d-410f-beba-53f0248d91f5.png" width="500">
@@ -95,10 +91,8 @@ Below are a few of the available features. Use /help on Discord to view more.
  - /news
 <img src="https://user-images.githubusercontent.com/98583013/218332494-07eaba32-1c58-450c-adea-acdd3ab6917f.png" width="500">
 
-
  - /compare-players
 <img src="https://user-images.githubusercontent.com/98583013/218332571-5da0b2e2-e17b-4757-9211-b5d36a4d160e.png" width="500">
-
 
 
 # How to Make a Contribution
