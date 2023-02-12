@@ -35,6 +35,8 @@ NBABot is truly influenced by our users feedback and our passion for the game of
  - Player Comparisons
 
 And many more. You can check it out by [inviting NBABot](https://discord.com/oauth2/authorize?client_id=544017840760422417&permissions=534723816512&scope=applications.commands%20bot), or using NBABot in our [support server](https://discord.gg/njhVCmF).
+  
+Feel free to check out our [website](https://nbabot.js.org/) as well.
 
 # Installation
 The installation of NBABot to run on your own is something that requires a previous knowledge of [discord.js](https://discord.js.org/#/), javascript, and basic coding principals. *We are working on documentation and expect some more news on this front soon.*
