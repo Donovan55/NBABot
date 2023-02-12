@@ -13,6 +13,17 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
 </p>
 
+- [The Story Thus Far](#the-story-thus-far)
+- [Installation](#installation)
+- [Feature & Command List](#feature---command-list)
+- [How to Make a Contribution](#how-to-make-a-contribution)
+- [How to Support Us](#how-to-support-us)
+- [License](#license)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+  
+  
+  
 # The Story Thus Far
 Hi, we're [Eliot](https://www.github.com/EliotChignell) and [Justin](https://www.github.com/freejstnalxndr), and we are the creators of NBABot. We met around 2018 when the project was in its very early stages. We are fans of the Suns and Knicks respectively, Eliot being from New Zealand, and Justin being from New York.
 
