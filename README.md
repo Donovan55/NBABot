@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
 </p>
 
+# Table of Contents
+  
 - [The Story Thus Far](#the-story-thus-far)
 - [Installation](#installation)
 - [Feature & Command List](#feature---command-list)
@@ -20,8 +22,6 @@
 - [How to Support Us](#how-to-support-us)
 - [License](#license)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-  
   
   
 # The Story Thus Far
