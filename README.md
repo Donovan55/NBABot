@@ -69,10 +69,11 @@ In other words, betting commands do not work by default as they require installi
 Below is an extended list of features 
   
   - /help
-<img src="https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png" width="100">
-![image](https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png)
+<img src="https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png" width="500">
+//![image](https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png)
   
  - /scores
+<img src="https://user-images.githubusercontent.com/98583013/218332251-327ce266-9a23-4f5d-8f2d-04d969bd4241.png" width="500">
 ![image](https://user-images.githubusercontent.com/98583013/218332251-327ce266-9a23-4f5d-8f2d-04d969bd4241.png)
   
  - /bet 
