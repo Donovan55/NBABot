@@ -64,7 +64,33 @@ __**Watch a video guide for macOS here: [https://www.youtube.com/watch?v=H43I2qV
 
 **Note:** NBABot currently is only available in a limited form without the simulated betting and user settings, as those require a MySQL database on your computer. This will later be explained with a guide. If you are confident enough, you can try install MySQL, use the framework database `nba.sql`, then try the database commands, but I cannot guarantee they will work at this stage.
 In other words, betting commands do not work by default as they require installing MySQL.
+  
+# Feature & Command List
+Below is an extended list of features 
+  
+  - /help
+![image](https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png)
+  
+ - /scores
+![image](https://user-images.githubusercontent.com/98583013/218332251-327ce266-9a23-4f5d-8f2d-04d969bd4241.png)
+  
+ - /bet 
+![image](https://user-images.githubusercontent.com/98583013/218332655-f3566e58-119d-410f-beba-53f0248d91f5.png)
 
+ - /news
+![image](https://user-images.githubusercontent.com/98583013/218332494-07eaba32-1c58-450c-adea-acdd3ab6917f.png)
+
+ - /compare-players
+ ![image](https://user-images.githubusercontent.com/98583013/218332571-5da0b2e2-e17b-4757-9211-b5d36a4d160e.png)
+
+
+# How to Make a Contribution
+1. Find something to work on: View open issues on github or join our [support server](https://discord.gg/njhVCmF) and view the todo channel to find potential features to implement - or create your own idea.
+2. Build locally: Follow installation instructions to run NBABot on your local machine.
+3. Make changes: Write code locally, testing as you go.
+4. Update documentation: Adjust README.md to correspond to any additional features added.
+5. Submit a pull request: Add a description of changes and create a pull request to the main repository.
+  
 # How to Support Us
 NBABot, as much as it is a passion project, is very time consuming and involves a lot of upfront cost. We hope to not only one day be able to pay for the server costs (around $90 USD per month), but also further development and in bringing on other experts to help us with Web Development or marketing.
 
