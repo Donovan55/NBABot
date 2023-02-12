@@ -70,20 +70,22 @@ Below is an extended list of features
   
   - /help
 <img src="https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png" width="500">
-//![image](https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png)
+
   
  - /scores
 <img src="https://user-images.githubusercontent.com/98583013/218332251-327ce266-9a23-4f5d-8f2d-04d969bd4241.png" width="500">
-![image](https://user-images.githubusercontent.com/98583013/218332251-327ce266-9a23-4f5d-8f2d-04d969bd4241.png)
+
   
  - /bet 
-![image](https://user-images.githubusercontent.com/98583013/218332655-f3566e58-119d-410f-beba-53f0248d91f5.png)
+<img src="https://user-images.githubusercontent.com/98583013/218332655-f3566e58-119d-410f-beba-53f0248d91f5.png" width="500">
 
  - /news
-![image](https://user-images.githubusercontent.com/98583013/218332494-07eaba32-1c58-450c-adea-acdd3ab6917f.png)
+<img src="https://user-images.githubusercontent.com/98583013/218332494-07eaba32-1c58-450c-adea-acdd3ab6917f.png" width="500">
+
 
  - /compare-players
- ![image](https://user-images.githubusercontent.com/98583013/218332571-5da0b2e2-e17b-4757-9211-b5d36a4d160e.png)
+<img src="https://user-images.githubusercontent.com/98583013/218332571-5da0b2e2-e17b-4757-9211-b5d36a4d160e.png" width="500">
+
 
 
 # How to Make a Contribution
