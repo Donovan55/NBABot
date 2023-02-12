@@ -78,8 +78,8 @@ __**Watch a video guide for macOS here: [https://www.youtube.com/watch?v=H43I2qV
 **Note:** NBABot currently is only available in a limited form without the simulated betting and user settings, as those require a MySQL database on your computer. This will later be explained with a guide. If you are confident enough, you can try install MySQL, use the framework database `nba.sql`, then try the database commands, but I cannot guarantee they will work at this stage.
 In other words, betting commands do not work by default as they require installing MySQL.
   
-# Feature & Command List
-Below is an extended list of features 
+# Feature & Discord Command List
+Below are a few of the available features. Use /help on Discord to view more.
   
   - /help
 <img src="https://user-images.githubusercontent.com/98583013/218332097-5a4c1f3e-17ef-46f6-ab30-ee7ac1b02c0a.png" width="500">
