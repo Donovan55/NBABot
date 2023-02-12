@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://i.imgur.com/mCr1gL0.png" width="300"></h1>
 
-[<h4 align="center">nbabot.js.org</h4>](https://nbabot.js.org/)
 <h4 align="center">A Discord bot for NBA scores, stats, news and simulated betting.</h4>
 
 <p align="center">
